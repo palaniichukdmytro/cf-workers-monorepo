@@ -14,13 +14,12 @@
     "check-types": "tsc --noEmit"
   },
   "dependencies": {
-    "@opennextjs/cloudflare": "latest",
+    "@opennextjs/cloudflare": "https://pkg.pr.new/@opennextjs/cloudflare@8c9c014",
     "@repo/ui": "workspace:*",
     "firebase-admin": "13.2.0",
     "next": "14.2.30",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-
     "react-select": "5.10.1",
     "server-only": "^0.0.1"
   },
