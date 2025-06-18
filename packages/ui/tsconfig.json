@@ -1,0 +1,14 @@
+{
+  "extends": "tsconfig/react-library.json",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist", ".turbo"]
+}
+
+//{
+//  "extends": "tsconfig/react-library.json",
+//  "include": ["./"],
+//  "exclude": ["node_modules", ".turbo"]
+//}
